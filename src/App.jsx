@@ -50,14 +50,11 @@ export default function Portfolio() {
             Rishabh Kumar
           </h1>
           <h2 className={darkMode ? 'text-2xl md:text-3xl text-slate-300 font-semibold' : 'text-2xl md:text-3xl text-slate-700 font-semibold'}>
-            SDET | Aspiring Data Analyst
+            SDET | QA Engineer
           </h2>
 
           <p className={darkMode ? 'text-slate-300 text-lg leading-relaxed max-w-xl' : 'text-slate-700 text-lg leading-relaxed max-w-xl'}>
-            QA Automation Engineer with 3+ years of experience in Selenium,
-            Cypress, REST API testing, SQL validation, and Agile delivery.
-            Passionate about automation, analytics, and building scalable
-            quality engineering solutions.
+            Innovative SDET delivering comprehensive quality engineering for complex web applications. Leverages 3+ years of expertise spanning targeted manual testing, scalable UI/API automation frameworks, and emerging AI-assisted test generation. Adept at driving CI/CD integration and backend database validation using SQL to maximize test coverage, reduce maintenance overhead, and optimize Agile delivery.
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
